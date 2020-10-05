@@ -1,0 +1,6 @@
+﻿Vector,Label,Description,To_Scale,Aggregation
+v_CA16_379,Age_Average,Average age,FALSE,Mean
+v_CA16_4,Age_0-14,Number of persons aged 0-14 years old,TRUE,Sum
+v_CA16_61,Age_15-64,Number of persons aged 15-64 years old,TRUE,Sum
+v_CA16_244,Age_Over65,Number of persons aged more than 65 years old,TRUE,Sum
+v_CA16_319,Age_Over85,Number of persons aged more than 85 years old,TRUE,Sum
